@@ -77,12 +77,6 @@ Click the ➤ (send) button or press Enter.
 
 Enjoy a real-time conversation with a multilingual AI assistant!
 
-📷 Screenshots
-
-![image](https://github.com/user-attachments/assets/29bc3850-90eb-41b3-9153-3ac2bb4a7a8d)
-![image](https://github.com/user-attachments/assets/57fc68d6-809e-4837-a7ef-d02b94f2ee29)
-![image](https://github.com/user-attachments/assets/168c39c6-97fe-43fe-b463-d3c514c05b05)
-
 This project is for educational use only. See LICENSE file for details.
 
 🙌 Credits
